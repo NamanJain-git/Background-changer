@@ -20,6 +20,6 @@ Built using **React + Vite** for fast and efficient development.
 ---
 
 🌐 Live Demo
-👉 Click here to view project
+👉 Click (https://namanjain-git.github.io/Background-changer/)
 
 
